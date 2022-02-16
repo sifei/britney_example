@@ -1,0 +1,10 @@
+{
+  "resourceName": "britneySongStorage",
+  "tableName": "britneySongs",
+  "partitionKey": {
+    "fieldName": "id",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
